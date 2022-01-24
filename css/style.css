@@ -1,4 +1,13 @@
-.third-col {
-	background-color: #3f87f5;
+.carousel img {
+	height: 544px;
+	object-fit: cover;
+}
+.card-footer-bg {
+	background-color: white;
+}
+.special-card {
 	border-radius: 20px;
+}
+a {
+	text-decoration: none;
 }
